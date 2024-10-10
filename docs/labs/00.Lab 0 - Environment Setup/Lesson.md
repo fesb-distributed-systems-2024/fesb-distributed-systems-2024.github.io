@@ -14,8 +14,10 @@
   - [**Step 3: Configuring GitHub**](#step-3-configuring-github)
     - [**Adding public SSH key to GitHub**](#adding-public-ssh-key-to-github)
     - [**Testing the GitHub SSH key**](#testing-the-github-ssh-key)
-  - [**Step 4: Installing .NET 8 SDK**](#step-4-installing-net-8-sdk)
-    - [**Testing the .NET Installation**](#testing-the-net-installation)
+  - [**Alternative to Visual Studio 2022**](#alternative-to-visual-studio-2022)
+    - [Installing Visual Studio Code](#installing-visual-studio-code)
+    - [Installing and testing .NET SDK](#installing-and-testing-net-sdk)
+    - [Testing the .NET Installation](#testing-the-net-installation)
 - [Conclusion](#conclusion)
 
 ## Requirements
@@ -25,11 +27,28 @@ To successfully work and complete the lab assignments for the *Distributed Syste
 - Visual Studio 2022 Community Edition ([Link](https://visualstudio.microsoft.com/vs/))
 - Git ([Link](https://git-scm.com/downloads))
 - Personal GitHub account ([Link](https://github.com/))
-- .NET 8 SDK ([Link](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) - SDK 8.0.403 version)
 
 ## **Step 1: Installing Visual Studio 2022 Community**
 
 Download and install Visual Studio 2022 Community from the link in [`Requirements`](#requirements) section.
+
+![vs-download](./vs-download.png)
+
+:::caution **IMPORTANT**
+
+During installation, select the `ASP.NET and Web Development` workload:
+
+![vs-aspnet](./vs-aspnet.png)
+
+:::
+
+:::tip
+
+In case you have installed Visual Studio without selecting the `ASP.NET and Web Development` workload, or you already have Visual Studio 2022 installed on your system and want to check if you also have the specified workload installed, you can open `Visual Studio`, open any project or `Continoue without code.` and go to toolbar option `Tools` > `Get Tools and Features...`.
+
+![vs-installed-upgrade](./vs-installed-upgrade.png)
+
+:::
 
 ## **Step 2: Installing and Configuring Git**
 
@@ -149,13 +168,27 @@ But, if the output is similar to this:
 
 :::
 
-## **Step 4: Installing .NET 8 SDK**
+## **Alternative to Visual Studio 2022**
 
-To build and run C# applications, we need a *.NET SDK - Software Development Kit*. Download and run the SDK installer from the link in the [`Requirements`](#requirements) section (most commonly x64 version - for 64-bit *Windows* OS).
+:::caution **IMPORTANT**
+
+If you successfully installed Visual Studio 2022 with ASP.NET tools, you can skip this chapter.
+
+:::
+
+In case you have trouble installing Visual Studio 2022 due to not enough memory, using another OS (macOS, UNIX, GNU/Linux, older Windows) or other unspecified issues, you can use `Visual Studio Code` and `.NET 8 SDK`.
+
+### Installing Visual Studio Code
+
+To edit code we can use any text editor, but using specialized software like `Visual Studio Code` allows us to write code more efficiently and easily by providing us with syntax highlighting, autocompletion, linting, etc. To install `Visual Studio Code` go to the [Official Visual Studio Code Website](https://code.visualstudio.com), download and install the Visual Studio Code for your computer.
+
+### Installing and testing .NET SDK
+
+To build and run C# applications, we need a *.NET SDK - Software Development Kit*. To install `.NET 8 SDK` go to the [Official .NET 8 SDK Website](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and download the `SDK 8.0.403 version` (as seen in image below).
 
 ![net-sdk](./net-sdk.PNG)
 
-### **Testing the .NET Installation**
+### Testing the .NET Installation
 
 After a short installation, verify the .NET SDK is installed by entering the following command in the `cmd` or `powershell`:
 
@@ -179,6 +212,8 @@ But if the commands throws an error or **shows a different** version, please del
 
 :::
 
+
+   
 # Conclusion
 
 If you have successfully finished all installations, you can proceed with the lab exercises, but if you encounter any errors, please refer to the assistant for help at `petar.kaselj.00@fesb.hr`.
