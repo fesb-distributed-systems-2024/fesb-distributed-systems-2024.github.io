@@ -1,3 +1,8 @@
+## C#
+- [Codecademy Interactive C# Tutorial](https://www.codecademy.com/learn/learn-c-sharp)
+- [W3Schools - Detailed Overview of C# Programming Language](https://www.w3schools.com/cs/index.php)
+- [Microsoft C# Web Based Interactive Tutorials](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
+
 ## Microsoft SQL Server
 - [Microsoft SQL Server Download Page](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
     - > NOTE: Scroll down and download the *Developer* edition. 

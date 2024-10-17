@@ -1,7 +1,6 @@
 # Distributed Information Systems
 
 ## Labs
-- [**Coding Convention**](./Notes/Coding%20Convention.md)
 - [**Lab 0: Environment Setup**](00.Lab%200%20-%20Environment%20Setup/Lesson.md)
 - [**Lab 1: Git Basics**](01.Lab%201%20-%20Git%20Basics/Lesson.md)
   - [Cheatsheet](01.Lab%201%20-%20Git%20Basics/Cheatsheet.md)
@@ -16,3 +15,5 @@
 - [**Lab 6: Web API Design**](06.Lab%206%20-%20Web%20API%20Design/Lesson.md)
 - [**Lab 7: Docker**](07.Lab%207%20-%20Docker/Lesson.md)
 - [**Lab 8: Web Sockets**](08.Lab%208%20-%20Web%20Sockets/Lesson.md)
+- [**Coding Convention**](./Notes/Coding%20Convention.md)
+- [**Extra Materials**](./Notes/Extra%20Materials.md)
