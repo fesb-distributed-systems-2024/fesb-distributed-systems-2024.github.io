@@ -3,6 +3,11 @@
 - [W3Schools - Detailed Overview of C# Programming Language](https://www.w3schools.com/cs/index.php)
 - [Microsoft C# Web Based Interactive Tutorials](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
 
+## Git
+- [W3Schools - Git Tutorial](https://www.w3schools.com/git)
+- [Official Git Site](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+- [Freecodecamp Git Tutorial](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91)
+
 ## Microsoft SQL Server
 - [Microsoft SQL Server Download Page](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
     - > NOTE: Scroll down and download the *Developer* edition. 
