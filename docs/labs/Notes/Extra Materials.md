@@ -8,6 +8,20 @@
 - [Official Git Site](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 - [Freecodecamp Git Tutorial](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91)
 
+
+### Readme - Markdown
+- [Live Online Markdown Editor](https://stackedit.io/app#)
+- [GitHub Markdown Official Site - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [GitHub Official Site - About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+
+### Problems with SSH
+- [https://serverfault.com/questions/194567/how-do-i-tell-git-for-windows-where-to-find-my-private-rsa-key](https://serverfault.com/questions/194567/how-do-i-tell-git-for-windows-where-to-find-my-private-rsa-key)
+- [https://stackoverflow.com/questions/49926386/openssh-windows-bad-owner-or-permissions](https://stackoverflow.com/questions/49926386/openssh-windows-bad-owner-or-permissions)
+- [https://stackoverflow.com/questions/25927914/git-error-please-make-sure-you-have-the-correct-access-rights-and-the-reposito](https://stackoverflow.com/questions/25927914/git-error-please-make-sure-you-have-the-correct-access-rights-and-the-reposito)
+- [https://stackoverflow.com/questions/2840871/ssh-is-looking-in-the-wrong-place-for-the-public-private-key-pair-on-windows](https://stackoverflow.com/questions/2840871/ssh-is-looking-in-the-wrong-place-for-the-public-private-key-pair-on-windows)
+- [https://stackoverflow.com/questions/71556140/git-does-not-use-ssh-key-windows](https://stackoverflow.com/questions/71556140/git-does-not-use-ssh-key-windows)
+
+
 ## Microsoft SQL Server
 - [Microsoft SQL Server Download Page](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
     - > NOTE: Scroll down and download the *Developer* edition. 

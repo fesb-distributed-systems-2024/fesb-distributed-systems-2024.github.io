@@ -64,8 +64,9 @@
 
 ### **2.5. Downloading Changes from Remote Repository (GitHub)**
 1. After merging a *Pull Request*, the changes are visible only in remote repository (*GitHub*)
-2. To "download" changes from `GitHub` to local repository on PC, *pull* the changes
-   - `git pull`
+2. To "download" changes from `GitHub` to local repository on PC, first checkout the `main` branch and then *pull* the changes
+    - `git checkout main`
+    - `git pull`
 
 ## **3. Commands**
 
