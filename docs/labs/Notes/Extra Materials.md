@@ -21,6 +21,10 @@
 - [https://stackoverflow.com/questions/2840871/ssh-is-looking-in-the-wrong-place-for-the-public-private-key-pair-on-windows](https://stackoverflow.com/questions/2840871/ssh-is-looking-in-the-wrong-place-for-the-public-private-key-pair-on-windows)
 - [https://stackoverflow.com/questions/71556140/git-does-not-use-ssh-key-windows](https://stackoverflow.com/questions/71556140/git-does-not-use-ssh-key-windows)
 
+### Web API
+- [W3Schools JSON examples](https://www.w3schools.com/js/js_json_intro.asp)
+- [W3Schools AJAX examples](https://www.w3schools.com/js/js_ajax_intro.asp)
+- [W3Schools AJAX example - Customers](https://www.w3schools.com/js/tryit.asp?filename=tryjs_ajax_database)
 
 ## Microsoft SQL Server
 - [Microsoft SQL Server Download Page](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
