@@ -49,6 +49,6 @@
 
 ### **Connecting VS2022 Project to Existing GitHub Repository**
 
-![add-remote-1](add-remote-1.png)
-![add-remote-2](add-remote-2.png)
+![add-remote-1](add-remote-1.PNG)
+![add-remote-2](add-remote-2.PNG)
 
