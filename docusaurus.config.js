@@ -55,6 +55,12 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'project/project',
+            position: 'left',
+            label: 'Project'
+          },
+          {
+            type: 'doc',
             docId: 'students/student-assignments',
             label: 'Students',
             position: 'left',
@@ -64,6 +70,12 @@ const config = {
             docId: 'students/homework-assignments',
             label: 'Homework Assignments',
             position: 'left',
+          },
+          {
+            type: 'doc',
+            docId: 'notes/notes',
+            position: 'left',
+            label: 'Notes'
           },
           {
             href: 'https://github.com/fesb-distributed-systems-2024/fesb-distributed-systems-2024.github.io',

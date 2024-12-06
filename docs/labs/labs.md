@@ -15,5 +15,3 @@
 - [**Lab 6: Web API Design**](06.Lab%206%20-%20Web%20API%20Design/Lesson.md)
 - [**Lab 7: Docker**](07.Lab%207%20-%20Docker/Lesson.md)
 - [**Lab 8: Web Sockets**](08.Lab%208%20-%20Web%20Sockets/Lesson.md)
-- [**Coding Convention**](./Notes/Coding%20Convention.md)
-- [**Extra Materials**](./Notes/Extra%20Materials.md)
