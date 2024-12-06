@@ -45,10 +45,10 @@
 
 ### **Creating a Project**
 
-![web-api-project](web-api-project.PNG)
+![web-api-project](./web-api-project.PNG)
 
 ### **Connecting VS2022 Project to Existing GitHub Repository**
 
-![add-remote-1](add-remote-1.PNG)
-![add-remote-2](add-remote-2.PNG)
+![add-remote-1](./add-remote-1.PNG)
+![add-remote-2](./add-remote-2.PNG)
 
