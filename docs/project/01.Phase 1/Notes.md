@@ -7,9 +7,6 @@
 	- [**Steps for Creating a Basic WebAPI**](#steps-for-creating-a-basic-webapi)
 	- [**Hints**](#hints)
 	- [Further Reading](#further-reading)
-	- [Additional Hints](#additional-hints)
-		- [**Creating a Project**](#creating-a-project)
-		- [**Connecting VS2022 Project to Existing GitHub Repository**](#connecting-vs2022-project-to-existing-github-repository)
 
 
 ## **Steps for Creating a Basic WebAPI**
@@ -41,14 +38,4 @@
 - [LINQ - Where/Any/All](https://stackoverflow.com/questions/25510430/how-to-select-items-from-ienumerable)
 - [Controller Route](https://learn.microsoft.com/en-us/aspnet/web-api/overview/web-api-routing-and-actions/routing-in-aspnet-web-api)
 
-## Additional Hints
-
-### **Creating a Project**
-
-![web-api-project](./web-api-project.PNG)
-
-### **Connecting VS2022 Project to Existing GitHub Repository**
-
-![add-remote-1](./add-remote-1.PNG)
-![add-remote-2](./add-remote-2.PNG)
 
