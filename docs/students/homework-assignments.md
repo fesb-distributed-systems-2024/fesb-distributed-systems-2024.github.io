@@ -179,7 +179,7 @@
 
 
 
-### [HW2] Ante eric
+### [HW2] Ante Seric
 - **Project Task:** Weather Station
 - **Requirements:**
   - Create a controller (`WeatherStationController.cs`) with 3 endpoints (functions)
@@ -307,7 +307,7 @@
 
 
 
-### [HW2] _
+### [HW2] Antonio Balic
 - **Project Task:** Trophy
 - **Requirements:**
   - Create a controller (`TrophyController.cs`) with 3 endpoints (functions)
