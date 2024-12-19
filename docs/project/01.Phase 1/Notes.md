@@ -1,12 +1,12 @@
-# Notes
+# Phase 1 - Notes
 
 ## Table Of Contents
 
-- [Notes](#notes)
-	- [Table Of Contents](#table-of-contents)
-	- [**Steps for Creating a Basic WebAPI**](#steps-for-creating-a-basic-webapi)
-	- [**Hints**](#hints)
-	- [Further Reading](#further-reading)
+- [Phase 1 - Notes](#phase-1---notes)
+  - [Table Of Contents](#table-of-contents)
+  - [**Steps for Creating a Basic WebAPI**](#steps-for-creating-a-basic-webapi)
+  - [**Hints**](#hints)
+  - [Further Reading](#further-reading)
 
 
 ## **Steps for Creating a Basic WebAPI**
