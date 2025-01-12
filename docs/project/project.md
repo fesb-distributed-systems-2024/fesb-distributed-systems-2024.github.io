@@ -10,3 +10,6 @@
 - [**Phase 3**](03.Phase%203/Homework.md)
   - [**Notes**](03.Phase%203/Notes.md)
   - [**Homework**](03.Phase%203/Homework.md)
+- [**Phase 4**](04.Phase%204/Homework.md)
+  - [**Notes**](04.Phase%204/Notes.md)
+  - [**Homework**](04.Phase%204/Homework.md)
